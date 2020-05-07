@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "314207835319",
+    "firebase_url": "https://chatapp-d40b4.firebaseio.com",
+    "project_id": "chatapp-d40b4",
+    "storage_bucket": "chatapp-d40b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314207835319:android:c7274b0930fe875191e932",
+        "android_client_info": {
+          "package_name": "com.harshil.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314207835319-0vb9ciggjipe2e6v7lcilb4o328smn4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEB0IOi8uX1QstqjyR0-7q_paR2bVE7gA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314207835319-0vb9ciggjipe2e6v7lcilb4o328smn4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
